@@ -1,0 +1,18 @@
+.form-control-plaintext {
+  margin-top: 10px;
+  border: 1px solid black;
+}
+.box-container,
+.log-in-container,
+.sign-up-container {
+  width: 400px;
+  border: 2px solid rgb(128, 125, 125);
+  margin: 10px 10px;
+  padding: 3px;
+  min-width: 500px;
+}
+.button-container {
+  margin: 10px 10px;
+}
+.my-btn {
+}
